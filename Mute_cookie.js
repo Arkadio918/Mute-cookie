@@ -1,0 +1,1 @@
+Game.playCookieClickSound=function(){return};
